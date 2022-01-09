@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Soundarya
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Python, Flask, Django, REST API
+- 👀 I’m interested in Python Programming, Flask, Django, REST API
 - 📫 How to reach me t.soundarya25@gmail.com
 
 <!---
